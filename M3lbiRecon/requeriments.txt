@@ -1,0 +1,5 @@
+rich
+pyfiglet
+pygments
+mdurl
+markdown-it-py
